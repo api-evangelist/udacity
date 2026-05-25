@@ -1,0 +1,98 @@
+aid: udacity
+name: Udacity
+description: >-
+  Udacity is an online tech-upskilling platform offering project-based
+  Nanodegree programs, individual courses, and enterprise workforce
+  development across Artificial Intelligence, Generative AI, Agentic AI,
+  Data Science, Cloud Computing, Cybersecurity, Programming, Autonomous
+  Systems, Product Management, and DevOps. Founded by Sebastian Thrun
+  out of the Stanford CS221 free online AI course in 2011, Udacity
+  pioneered the Nanodegree credential and partnered with industry
+  leaders (AWS, Google, Meta, Microsoft, NVIDIA, Mercedes-Benz) to
+  co-develop curriculum. In 2024 Accenture acquired Udacity for
+  approximately $1B and folded the platform into LearnVantage,
+  Accenture's enterprise learning and skilling business. Udacity
+  reports 25M+ learners globally and remains best known for its
+  Self-Driving Car, Deep Learning, and Generative AI Nanodegrees, with
+  hands-on projects reviewed by human mentors and career services.
+  Udacity does not publish a public developer API, SDK, or developer
+  portal — enterprise customers integrate via Accenture LearnVantage
+  sales channels rather than self-service APIs. Its public GitHub
+  organization (github.com/udacity) hosts 1,100+ open-source classroom
+  and course-content repositories (e.g. deep-learning-v2-pytorch,
+  self-driving-car, cd13303-genai-c1-classroom) used as Nanodegree
+  exercises, not as official platform APIs.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Online Learning
+  - Upskilling
+  - Nanodegrees
+  - Tech Education
+  - Workforce Development
+  - Generative AI Training
+  - Agentic AI
+  - Data Science
+  - Cloud Computing
+  - Cybersecurity
+  - Autonomous Systems
+  - Self-Driving Cars
+  - Accenture
+  - LearnVantage
+url: https://raw.githubusercontent.com/api-evangelist/udacity/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.udacity.com
+  - type: Catalog
+    url: https://www.udacity.com/catalog
+  - type: Enterprise
+    url: https://www.udacity.com/enterprise
+  - type: Government
+    url: https://www.udacity.com/government
+  - type: Schools
+    url: https://www.udacity.com/school
+  - type: GenerativeAI
+    url: https://www.udacity.com/school/artificial-intelligence
+  - type: Mentorship
+    url: https://www.udacity.com/mentorship
+  - type: Pricing
+    url: https://www.udacity.com/pricing
+  - type: SupportCenter
+    url: https://udacity.zendesk.com/hc/en-us
+  - type: About
+    url: https://www.udacity.com/about
+  - type: Newsroom
+    url: https://www.udacity.com/blog
+  - type: Blog
+    url: https://www.udacity.com/blog
+  - type: Careers
+    url: https://www.udacity.com/jobs
+  - type: Contact
+    url: https://www.udacity.com/contact
+  - type: Privacy
+    url: https://www.udacity.com/legal/privacy
+  - type: TermsOfService
+    url: https://www.udacity.com/legal/terms-of-use
+  - type: ParentCompany
+    url: https://www.accenture.com/us-en/services/learnvantage
+  - type: AcquisitionAnnouncement
+    url: https://newsroom.accenture.com/news/2024/accenture-completes-acquisition-of-udacity-to-build-deep-learning-and-skilling-capability-to-help-clients-and-their-people-thrive-in-the-age-of-ai
+  - type: GitHub
+    url: https://github.com/udacity
+  - type: Twitter
+    url: https://twitter.com/udacity
+  - type: LinkedIn
+    url: https://www.linkedin.com/school/udacity
+  - type: YouTube
+    url: https://www.youtube.com/user/Udacity
+  - type: Facebook
+    url: https://www.facebook.com/Udacity
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
