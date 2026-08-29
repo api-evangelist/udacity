@@ -23,6 +23,17 @@ description: >-
   self-driving-car, cd13303-genai-c1-classroom) used as Nanodegree
   exercises, not as official platform APIs.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
