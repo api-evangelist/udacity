@@ -1,0 +1,36 @@
+# Front Door AI Index — udacity — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: udacity
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.udacity.com
+  final_host: www.udacity.com
+  ownership: own
+  owner: udacity
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 79
+  host_score: 79
+  density: 37.11
+  words: 2129
+  tiers:
+    agentic: 10
+    core: 68
+    model: 1
+  ambiguous: 12
+  top_terms:
+    AI: 43
+    agent: 8
+    machine learning: 6
+    AI agent: 5
+    neural network: 5
+    deep learning: 4
+    generative ai: 4
+    intelligence: 4
+    artificial intelligence: 3
+    agentic: 2
+    chatbot: 2
+    LLMs: 1
