@@ -15,8 +15,8 @@ edges:
   evidence: https://aws.amazon.com/marketplace/seller-profile?id=2e74bdb3-9b7e-4078-b8b6-7b81bad12dc5
   listing_count: 3
   apps:
-  - Train to Hire
   - Udacity Talent Transformation Platform
+  - Train to Hire
   - Udacity Teams - All Access Passes
   seller_name: Udacity
   detected_by: sweep-cloud-marketplaces.py
